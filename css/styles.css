@@ -10258,7 +10258,7 @@ body {
 }
 
 .about-section {
-  padding-top: 10rem;
+  padding-top: 5rem;
   /* background: linear-gradient(to bottom, #232143 0%, rgba(12 156 161 / 100%) 75%, rgba(147 122 122 / 80%)); */
   /* background: linear-gradient(to bottom, #9126BF 0%, rgb(191 65 170 / 1) 75%, rgb(242 110 80 / 0.8)); */
   /* background: linear-gradient(to bottom, rgb(242 110 80 / 1) 20%, rgb(191 65 170 / 1) 56%, #9126BF); */
@@ -10268,7 +10268,7 @@ body {
 }
 
 .projects-section {
-  padding: 7rem 0;
+  padding: 5rem 0;
 }
 .projects-section .featured-text {
   padding: 2rem;
