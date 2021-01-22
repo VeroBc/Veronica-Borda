@@ -438,6 +438,11 @@ mark,
   background-color: #fcf8e3;
 }
 
+.img-skills {
+  margin: 0.5em;
+  height: 4em;
+}
+
 .list-unstyled {
   padding-left: 0;
   list-style: none;
@@ -2364,7 +2369,7 @@ textarea.form-control {
 .form-inline {
   display: flex;
   flex-flow: row wrap;
-  align-items: center;
+  justify-content: center;
 }
 .form-inline .form-check {
   width: 100%;
@@ -10295,8 +10300,14 @@ body {
   }
 }
 
+.skills-section {
+  padding-bottom: 4em;
+  padding-top: 8em;
+}
+
 .signup-section {
-  padding: 10rem 0;
+  padding: 7rem 0;
+  padding-bottom: 4rem;
   /* background: url("../assets/img/bg-signup.jpg"); */
   /* background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("../assets/img/bg-signup.jpg"); */
   background-position: center;
