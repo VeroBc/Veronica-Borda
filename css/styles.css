@@ -10143,7 +10143,7 @@ body {
 }
 #mainNav .navbar-brand {
   color: #000000;
-  font-size: 21px;
+  font-size: 2rem;
   /* font-weight: 700; */
   padding: 0.9rem 0;
 }
@@ -10270,11 +10270,12 @@ body {
   /* background: linear-gradient(to bottom, rgb(242 110 80 / 1) 20%, rgb(191 65 170 / 1) 56%, #9126BF); */
 }
 .about-section p {
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
 }
 
 .projects-section {
-  padding: 5rem 0;
+  padding: 6rem 0;
+  padding-bottom: 1rem;
 }
 .projects-section .featured-text {
   padding: 2rem;
@@ -10301,13 +10302,13 @@ body {
 }
 
 .skills-section {
-  padding-bottom: 4em;
-  padding-top: 8em;
+  padding-top: 6em;
+  padding-bottom: 1em;
 }
 
 .signup-section {
-  padding: 7rem 0;
-  padding-bottom: 4rem;
+  padding: 6rem 0;
+  padding-bottom: 1rem;
   /* background: url("../assets/img/bg-signup.jpg"); */
   /* background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("../assets/img/bg-signup.jpg"); */
   background-position: center;
@@ -10352,13 +10353,13 @@ body {
   text-align: center;
   height: 3rem;
   width: 3rem;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.2);
   border-radius: 100%;
   line-height: 3rem;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.5);
 }
 .contact-section .social a:hover {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.7);
 }
 .contact-section .social a:active {
   color: #fff;
